@@ -6,5 +6,6 @@ It is a chest diagnosis ML project to detect corona virus for the patient. Given
 4.Then, built a convolutional neural network with a classification layer at the end with 2 different architectures (many layers vs few). <br />
 5.Also, used Improved Models ResNet 18-50. <br />
 6.Then, Reported the training, validation, and testing accuracy and f1 score. <br />
+# Group project
 
 
